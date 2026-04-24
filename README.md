@@ -17,3 +17,5 @@ go run main.go
 - `list` - показать все задачи
 - `events` - история команд
 - `exit` - выход
+## Ссылка
+https://github.com/scientist-Msk/task-manager
